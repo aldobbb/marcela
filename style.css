@@ -1,0 +1,20 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+h1 {
+  color:#f01111;
+  text-transform: uppercase;
+  font-size: 100px;
+  margin-bottom: 10px;
+}
+.prpl-title {
+  color: #FF78FF;
+  }
+
+.my-underline{
+  text-decoration: underline;
+  }
